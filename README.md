@@ -309,4 +309,5 @@ For issues, questions, or suggestions:
 
 ---
 
-**Made with ❤️ for accurate VAT calculations**
+**Project by - Randika Nawarathne**
+**Powered by - Rough X Developers </>**
